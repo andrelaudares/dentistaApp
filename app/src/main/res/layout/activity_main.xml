@@ -86,16 +86,16 @@
         android:layout_below="@id/btnLogin"
         />
 
-    <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/btnIrCad"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/tvCad"
-        android:text="@string/criarcad"
-        android:layout_marginTop="3dp"
-        android:layout_marginStart="60dp"
-        android:layout_marginEnd="60dp"
-        android:background="@drawable/button"
-        />
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnIrCad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvCad"
+            android:text="@string/criarcad"
+            android:layout_marginTop="3dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="60dp"
+            android:background="@drawable/button"
+            />
 
 </RelativeLayout>
